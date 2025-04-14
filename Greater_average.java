@@ -1,13 +1,4 @@
-// You are given 
-// 3
-// 3 numbers 
-// A
-// ,
-// B
-// ,
-// A,B, and 
-// C
-// C.
+// You are given 3 numbers  A,B, and C
 
 // Determine whether the average of 
 // A
